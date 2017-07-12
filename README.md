@@ -1,4 +1,3 @@
 # reporter
 
-TODO: Enter the cookbook description here.
-
+Cookbook to generate reports from processing files, i.e. logs.

@@ -1,10 +1,11 @@
 name 'reporter'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Carlos Beleño'
+maintainer_email 'cbeleno@redsis.com'
 license 'all_rights'
 description 'Installs/Configures reporter'
-long_description 'Installs/Configures reporter'
-version '0.1.0'
+version '2.0.5'
+long_description 'Cookbook to generate reports from processing files, i.e. logs.'
+depends 'windows', '~> 1.44.1'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
